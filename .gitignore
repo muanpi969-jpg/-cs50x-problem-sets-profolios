@@ -1,0 +1,31 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Python caches and compiled bytecode
+__pycache__/
+**/__pycache__/
+**pycache**/
+*.py[cod]
+
+# Compiled C/C++ artifacts and executables
+*.out
+**/*.out
+*.exe
+**/*.exe
+*.o
+*.obj
+*.a
+*.so
+a.out
+**/a.out
+build/
+**/build/
+bin/
+**/bin/
+
+# Common extensionless compiler outputs
+main
+**/main
+program
+**/program

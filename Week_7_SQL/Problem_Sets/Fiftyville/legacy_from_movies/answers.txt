@@ -1,0 +1,3 @@
+Thief: Bruce
+City: New York City
+Accomplice: Robin

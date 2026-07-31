@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Habit Tracker</title>
+</head>
+<body>
+
+<h1>My Habits</h1>
+
+<form method="POST">
+    <input name="habit" placeholder="Enter habit">
+    <button type="submit">Add</button>
+</form>
+
+<ul>
+    {% for habit in habits %}
+        <li>{{ habit.name }}</li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
