@@ -1,12 +1,15 @@
 # Week 10 — The End
 
-[Back to the portfolio](../README.md)
+## Overview & Tech Stack
 
-The final CS50x week is a conclusion to the course and a transition toward independent work. The course-level capstone is documented separately under [Final Project](../Final_Project/).
+Week 10 is the course conclusion: a point to review the tools learned throughout CS50x and connect them to independent software work.
 
-## Contents
+**Tech stack:** the full CS50x toolkit—C, Python, SQL, HTML, CSS, JavaScript, Flask, Git, and command-line development.
 
-- [Lecture practice](./Lecture_Practice/)
-- [Problem sets](./Problem_Sets/)
+## Problem Sets Breakdown
 
-See the [official Week 10 page](https://cs50.harvard.edu/x/weeks/10/).
+No Week 10 source files are present in this local snapshot. The separate [Final Project](../Final_Project/) directory contains the capstone work and is intentionally kept outside the numbered week folders.
+
+## Challenges & Reflections
+
+Looking back across the course, the biggest challenge was not one particular language. It was learning to move between levels of abstraction without losing the underlying model: bytes and pointers in C, data structures in memory, rows in a database, and requests in a web application. I now approach unfamiliar projects by identifying the data flow first, then choosing the language and tools that make that flow easiest to test and explain.

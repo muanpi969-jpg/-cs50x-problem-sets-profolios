@@ -1,12 +1,15 @@
 # Week 0 — Scratch
 
-[Back to the portfolio](../README.md)
+## Overview & Tech Stack
 
-Week 0 introduces computational thinking: inputs and outputs, representation, abstraction, algorithms, pseudocode, and running time. Scratch is used to explore functions, variables, conditionals, loops, events, and parallel execution without first needing to learn a text-based programming language.
+Week 0 establishes computational thinking before introducing a text-based language. The core ideas are inputs and outputs, binary and other representations, abstraction, algorithms, pseudocode, and running time. Scratch adds functions, arguments, return values, variables, Boolean expressions, conditionals, loops, events, and threads.
 
-## Contents
+**Tech stack:** Scratch, visual programming concepts, pseudocode, and a small Python-based lecture experiment preserved under `Lecture_Practice/`.
 
-- [Lecture practice](./Lecture_Practice/)
-- [Problem sets](./Problem_Sets/)
+## Problem Sets Breakdown
 
-The original Scratch project file is not present in this workspace; the problem-set directory is retained as a clearly labeled place for it.
+No Scratch submission file is present in this local snapshot. The available lecture practice is `Lecture_Practice/chat.py`, which creates an OpenAI client, sends a prompt, and prints the response. Its main lesson is the input–process–output model: configuration and a prompt enter the program, the API performs the external computation, and the returned text is displayed.
+
+## Challenges & Reflections
+
+I initially thought Week 0 would be the easy week because Scratch hides syntax. It still required careful thinking about state and control flow: a visual program can be just as difficult to reason about when several events are active at once. The biggest useful shift was learning to write the algorithm down before building it. That habit made the later C assignments feel more manageable because I was solving the logic before worrying about punctuation and compiler errors.
