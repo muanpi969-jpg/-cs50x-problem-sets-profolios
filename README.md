@@ -97,6 +97,5 @@ These are my personal solutions and learning notes. Current CS50 students should
 
 ## Let's connect
 
-- LinkedIn: `https://www.linkedin.com/in/your-profile/`
-- Portfolio: `https://your-portfolio.example.com/`
-- GitHub: `https://github.com/your-username/`
+- LinkedIn: `https://www.linkedin.com/in/pau-muan-tung-hatlang-a55968343/`
+
